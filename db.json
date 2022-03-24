@@ -1,0 +1,49 @@
+{
+  "EmployData": [
+    {
+      "username": "Sa",
+      "age": "28",
+      "address": "Kolkata",
+      "maritalState": true,
+      "Department": "it",
+      "salary": "30000",
+      "id": 1
+    },
+    {
+      "username": "Sanjib",
+      "age": "28",
+      "address": "Kolkata",
+      "maritalState": true,
+      "Department": "it",
+      "salary": "30000",
+      "id": 2
+    },
+    {
+      "username": "Modi",
+      "age": "45",
+      "address": "Delhi",
+      "maritalState": false,
+      "Department": "marketing",
+      "salary": "300000",
+      "id": 3
+    },
+    {
+      "username": "Rajib",
+      "age": "24",
+      "address": "Pune",
+      "maritalState": false,
+      "Department": "finance",
+      "salary": "45000",
+      "id": 4
+    },
+    {
+      "username": "Sourav",
+      "age": "30",
+      "address": "Bihar",
+      "maritalState": true,
+      "Department": "marketing",
+      "salary": "35000",
+      "id": 5
+    }
+  ]
+}
